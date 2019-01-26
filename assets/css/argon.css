@@ -16387,7 +16387,7 @@ textarea[resize='horizontal']
     {
         padding: .625rem 0;
 
-        color: #172b4d !important;
+        /*color: #172b4d !important;*/
     }
     .navbar-nav .dropdown-menu
     {
